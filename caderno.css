@@ -1,0 +1,94 @@
+
+
+.dados{
+    background-color: #ffdead;
+    font-size: 20px;
+    font-weight: 200px;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.horarios{
+    margin-top: 15px;
+    background-color: #ffdead;
+    font-size: 20px;
+    font-weight: 200px;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.anotacoes{
+  margin-top: 15px;
+  background-color: #ffdead;
+  font-size: 20px;
+  font-weight: 200px;
+  text-align: center;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.th1{
+  border: 9px;
+  padding: 4px;
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h1{
+    font-style: normal; 
+    text-align: center;
+    
+  }
+  body{
+    background-color: blanchedalmond;
+    
+    
+  }
+  input{
+    background-color: blanchedalmond;
+    border-right: 0;
+    border-top: 0;
+    border-left: 0;
+    width: 650px;
+    margin-left: 390px;
+    border-color: black;
+   
+   
+  }
+  label{
+   margin-left: 300px;
+   position: absolute;
+
+  }
+  hr{
+    margin-top: 15px;
+    border-color: black;
+  }
+  th{
+    border: 2px solid black;
+    padding: 10px;
+    justify-content: center;
+    width: 100px;
+    height: 30px;
+    margin-left: 300px;
+   
+  }
+  table{
+    align-items: center;
+    margin-left: 260px;
+    margin-right: 240px;
+    margin-top: 15px;
+    border-spacing: 20px;
+  }
+  h2{
+    margin-left: 300px;
+    font-size: 20px;
+    word-spacing: 58px;
+    margin-right: 200px;
+  }
+  tr{
+    margin-left: 300px;
+  }
